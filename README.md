@@ -1,17 +1,19 @@
 # burp-kali-proxy
+
 <p align="center">
-<img src="Burp%20Suite.PNG" alt="Burp Suite MITM Illustration" width="400"/>
+<img src="Burp%20Suite.PNG" alt="Burp Suite MITM Illustration" style="max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
-© 2025 <strong>virg736</strong> — Tous droits réservés.
-<br>Reproduction interdite sans autorisation.
+© 2025 <strong>virg736</strong> — Tous droits réservés.<br>
+Reproduction interdite sans autorisation.
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 <img src="https://img.shields.io/badge/stability-stable-brightgreen">
 </p>
+
 
 Projet pédagogique : Analyse de trafic avec Burp Suite sur Kali Linux
 
