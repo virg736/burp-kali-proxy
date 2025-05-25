@@ -19,7 +19,7 @@ Projet pédagogique : analyse de trafic avec Burp Suite sous Kali Linux
 
 # Interception de trafic HTTPS avec Burp Suite
 
-> **Note importante**: l’objectif est strictement éducatif, pour illustrer l'interception de trafic HTTPS avec Burp Suite.
+> **Note importante** : l’objectif est strictement éducatif, pour illustrer l'interception de trafic HTTPS avec Burp Suite.
 >
 ---
 
@@ -39,8 +39,8 @@ Projet pédagogique : analyse de trafic avec Burp Suite sous Kali Linux
     
 ## Objectif du projet
 
-Ce projet montre comment un analyste ou un hacker pourrait intercepter le trafic HTTPS entre un navigateur web (Firefox) et un site, en utilisant **Burp Suite** comme proxy.
-L'objectif est purement éducatif, pour démontrer l'importance de la sécurité des certificats et des connexions réseau.
+Ce projet montre comment un analyste ou un attaquant pourrait intercepter le trafic HTTPS entre un navigateur web (Firefox) et un site web, en utilisant **Burp Suite** comme proxy.
+L'objectif est strictement éducatif, afin de démontrer l'importance de la sécurité des certificats et des connexions réseau.
 
 ---
 ### 1. Lancer Burp Suite
