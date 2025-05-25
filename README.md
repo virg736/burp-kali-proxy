@@ -124,29 +124,32 @@ Un attaquant pourrait :
 - Si cette installation est faite via un malware ou une ruse, l’utilisateur ne verra pas que ses données sont surveillées
 
 ---
-### 8. Captures écran
+
+## 8. Captures d’écran
 
 Le dossier `/captures` contient :
 
-– Lancement de **Burp Suite**
-– Configuration du proxy **Firefox**
-– Installation du certificat
-– Exemple de requête interceptée
+- Le lancement de **Burp Suite**
+- La configuration du proxy **Firefox**
+- L’installation du certificat
+- Un exemple de requête interceptée
 
 ---
+
 ### 9. Conclusion
+## 9. Conclusion
 
 Ce projet montre que :
 
-– Il est possible d’intercepter du trafic **HTTPS** si l’on contrôle le système ou le navigateur
-– La confiance dans les certificats est essentielle
-– Il ne faut jamais installer un certificat dont on n’est pas sûr
+- Il est possible d’intercepter du trafic **HTTPS** si l’on contrôle le système ou le navigateur
+- La confiance dans les certificats est essentielle
+- Il ne faut jamais installer un certificat dont on n’est pas sûr
 
-#### Avertissement légal
+### Avertissement légal
 
-– Ce projet est strictement pédagogique
-– Ne jamais utiliser ces techniques sans autorisation légale explicite
-– Toute utilisation malveillante est interdite
+> Ce projet est strictement pédagogique.
+> **Ne jamais utiliser ces techniques sans autorisation légale explicite.**
+> Toute utilisation malveillante est strictement interdite.
 
 ---
 
