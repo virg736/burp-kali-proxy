@@ -91,40 +91,37 @@ L'objectif est strictement éducatif, afin de démontrer l'importance de la séc
 ![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.4.PNG)
 
 ---
-### 5. Test de navigation HTTPS
 
-– Ouvrir un onglet Firefox et visiter le site :
-`https://exemple-securite.com`
+## 5. Test de navigation HTTPS
 
-– Retourner dans **Burp**
-– Aller dans l’onglet **Proxy > HTTP history**
+- Ouvrir un onglet Firefox et visiter le site : `https://exemple-securite.com`
+- Retourner dans **Burp Suite** → onglet **Proxy > HTTP history**
+- Observer les requêtes interceptées :
+- **URLs**
+- **Headers**
+- **Cookies**
+- **Méthodes** (`GET`, `POST`)
 
-– Observer les requêtes interceptées :
-– URLs
-– Headers
-– Cookies
-– Méthodes (GET, POST) 
 
 ![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.3.PNG)
 
-
 ---
-### 6. Intérêt pour un attaquant
+
+## 6. Intérêt pour un attaquant
 
 Un attaquant pourrait :
 
-– Lire et manipuler les cookies (ex. : vol de session)
-– Injecter des scripts ou du code malveillant
-– Analyser les formulaires vulnérables
-– Capturer des identifiants envoyés en clair
-– Observer toutes les données échangées
+- Lire et manipuler les cookies (ex. : vol de session)
+- Injecter des scripts ou du code malveillant
+- Analyser les formulaires vulnérables
+- Capturer des identifiants envoyés en clair
+- Observer toutes les données échangées
 
 ---
 ### 7. Pourquoi c’est critique
 
-Une fois le certificat racine installé, **Burp** peut intercepter toutes les connexions **HTTPS**.
-
-– Si cette installation est faite via un malware ou une ruse, l’utilisateur ne verra pas que ses données sont surveillées.
+- Une fois le certificat racine installé, **Burp Suite** peut intercepter toutes les connexions **HTTPS**
+- Si cette installation est faite via un malware ou une ruse, l’utilisateur ne verra pas que ses données sont surveillées
 
 ---
 ### 8. Captures écran
