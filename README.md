@@ -12,15 +12,15 @@ Ce projet montre comment un analyste ou un hacker pourrait intercepter le trafic
 L'objectif est purement éducatif, pour démontrer l'importance de la sécurité des certificats et des connexions réseau.
 
 ---
+### 1. Lancer Burp Suite
 
-1. Lancer Burp Suite
-Ouvrir un terminal et taper burpsuite
+- Ouvrir un terminal et taper `burpsuite`
+- Choisir : **Temporary project**
+- Configurer : **Use Burp defaults**
+- Démarrer avec : **Start Burp**
 
-Choisir : Temporary project
+![Lancer Burp Suite](./burp-kali-vn.png)
 
-Configurer : Use Burp defaults
-
-Démarrer avec : Start Burp
 
 ---
 
