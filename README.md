@@ -72,6 +72,8 @@ L'objectif est purement éducatif, pour démontrer l'importance de la sécurité
 – Headers
 – Cookies
 – Méthodes (GET, POST) 
+![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.3.PNG)
+
 
 ---
 ### 6. Intérêt pour un attaquant
