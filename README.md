@@ -56,6 +56,7 @@ L'objectif est purement éducatif, pour démontrer l'importance de la sécurité
 – Importer le fichier `cacert.der`
 – Cocher : **Faire confiance à ce CA pour identifier des sites web**
 – Valider
+
 ![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.4.PNG)
 
 ---
@@ -72,6 +73,7 @@ L'objectif est purement éducatif, pour démontrer l'importance de la sécurité
 – Headers
 – Cookies
 – Méthodes (GET, POST) 
+
 ![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.3.PNG)
 
 
