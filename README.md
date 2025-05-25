@@ -5,7 +5,23 @@ Projet pédagogique : Analyse de trafic avec Burp Suite sur Kali Linux
 
 > **Note importante**
 > L’objectif est strictement éducatif, pour illustrer l'interception de trafic HTTPS avec Burp Suite.
+>
+---
 
+### Sommaire
+
+1. [Lancer Burp Suite](#1-lancer-burp-suite)
+2. [Vérifier que le proxy est actif](#2-vérifier-que-le-proxy-est-actif)
+3. [Configurer le proxy dans Firefox](#3-configurer-le-proxy-dans-firefox)
+4. [Installer le certificat CA de Burp dans Firefox](#4-installer-le-certificat-ca-de-burp-dans-firefox)
+5. [Test de navigation HTTPS](#5-test-de-navigation-https)
+6. [Intérêt pour un attaquant](#6-intérêt-pour-un-attaquant)
+7. [Pourquoi c’est critique](#7-pourquoi-cest-critique)
+8. [Captures écran](#8-captures-écran)
+9. [Conclusion](#9-conclusion)
+
+ ---   
+    
 ## Objectif du projet
 
 Ce projet montre comment un analyste ou un hacker pourrait intercepter le trafic HTTPS entre un navigateur web (Firefox) et un site, en utilisant **Burp Suite** comme proxy.
