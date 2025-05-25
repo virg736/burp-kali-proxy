@@ -1,4 +1,4 @@
-# burp-kali-proxy
+# Burp-kali-proxy
 
 <p align="center">
 <img src="Burp%20Suite.PNG" alt="Burp Suite MITM Illustration" style="max-width: 100%; height: auto;" />
