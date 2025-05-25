@@ -19,7 +19,7 @@ L'objectif est purement éducatif, pour démontrer l'importance de la sécurité
 - **Kali Linux** (dans une VM VirtualBox)
 - **Burp Suite Community Edition**
 - **Firefox**
-- Test réalisé sur un site personnel : `https://virginielechenephotomarketing.com`
+- Test réalisé sur un faux site 
 
 ---
 
