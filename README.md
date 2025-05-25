@@ -136,7 +136,6 @@ Le dossier `/captures` contient :
 
 ---
 
-### 9. Conclusion
 ## 9. Conclusion
 
 Ce projet montre que :
