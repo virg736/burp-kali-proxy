@@ -56,6 +56,7 @@ L'objectif est purement éducatif, pour démontrer l'importance de la sécurité
 – Importer le fichier `cacert.der`
 – Cocher : **Faire confiance à ce CA pour identifier des sites web**
 – Valider
+![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.4.PNG)
 
 ---
 ### 5. Test de navigation HTTPS
