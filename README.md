@@ -3,9 +3,8 @@ Projet pédagogique : Analyse de trafic avec Burp Suite sur Kali Linux
 
 # Interception de trafic HTTPS avec Burp Suite
 
-> **Important :** Toutes les démonstrations sont réalisées sur un faux site (`https://exemple-securite.com`) hébergé localement.
-> Aucun site réel n’a été ciblé.
-> Ne jamais tester ces méthodes sur un site sans autorisation explicite.
+> **Note importante**
+> L’objectif est strictement éducatif, pour illustrer l'interception de trafic HTTPS avec Burp Suite.
 
 ## Objectif du projet
 
