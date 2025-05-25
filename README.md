@@ -54,39 +54,39 @@ L'objectif est strictement éducatif, afin de démontrer l'importance de la séc
 
 
 ---
-### 2. Vérifier que le proxy est actif
+## 2. Vérifier que le proxy est actif
 
 - Aller dans l’onglet **Proxy > Options**
 - Vérifier que l’écouteur est activé :
-- Adresse : `127.0.0.1`
-- Port : `8080`
+- **Adresse** : `127.0.0.1`
+- **Port** : `8080`
 
 ![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.2.PNG)
 
 ---
 
-### 3. Configurer le proxy dans Firefox
+## 3. Configurer le proxy dans Firefox
 
-– Aller dans `about:preferences`
-– Descendre jusqu’à **Paramètres réseau**
-– Cliquer sur **Paramètres…**
-– Cocher : **Configuration manuelle du proxy**
-– HTTP proxy : `127.0.0.1`
-– Port : `8080`
-– Cocher : **Utiliser ce proxy pour tous les protocoles**
-– Valider avec **OK**
-
+- Aller dans `about:preferences`
+- Descendre jusqu’à **Paramètres réseau**
+- Cliquer sur **Paramètres...**
+- Cocher : **Configuration manuelle du proxy**
+- **HTTP proxy** : `127.0.0.1`
+- **Port** : `8080`
+- Cocher : **Utiliser ce proxy pour tous les protocoles**
+- Valider avec **OK**
 
 ---
-### 4. Installer le certificat CA de Burp dans Firefox
 
-– Aller à l’adresse : `http://burp`
-– Télécharger le fichier `cacert.der`
-– Aller dans `about:preferences#privacy`
-– Cliquer sur **Afficher les certificats > Importer**
-– Importer le fichier `cacert.der`
-– Cocher : **Faire confiance à ce CA pour identifier des sites web**
-– Valider
+## 4. Installer le certificat CA de Burp dans Firefox
+
+- Aller à l’adresse : `http://burp`
+- Télécharger le fichier **cacert.der**
+- Aller dans `about:preferences#privacy`
+- Cliquer sur **Afficher les certificats**
+- Importer le fichier **cacert.der**
+- Cocher : **Faire confiance à ce CA pour identifier des sites web**
+- Valider
 
 ![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.4.PNG)
 
