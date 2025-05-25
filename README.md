@@ -23,15 +23,17 @@ L'objectif est purement éducatif, pour démontrer l'importance de la sécurité
 
 
 ---
+### 2. Vérifier que le proxy est actif
 
-2. Vérifier que le proxy est actif
-Aller dans l’onglet Proxy > Options
+- Aller dans l’onglet **Proxy > Options**
+- Vérifier que l’écouteur est activé :
+- Adresse : `127.0.0.1`
+- Port : `8080`
 
-Vérifier que l’écouteur est activé :
+![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.2.PNG)
 
-Adresse : 127.0.0.1
 
-Port : 8080
+
 
 ---
 
