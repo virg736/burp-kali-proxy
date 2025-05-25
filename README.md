@@ -13,34 +13,27 @@ L'objectif est purement éducatif, pour démontrer l'importance de la sécurité
 
 ---
 
-## Environnement utilisé
-
-- **Kali Linux** (dans une VM VirtualBox)
-- **Burp Suite Community Edition**
-- **Firefox**
-- Test réalisé sur un faux site 
-
----
-
-## 1. Lancer Burp Suite
-
-```bash
-burpsuite
+1. Lancer Burp Suite
+Ouvrir un terminal et taper burpsuite
 
 Choisir : Temporary project
 
-Config : Use Burp defaults
+Configurer : Use Burp defaults
 
-Démarrer via Start Burp
+Démarrer avec : Start Burp
+
+---
 
 2. Vérifier que le proxy est actif
-Onglet Proxy > Options
+Aller dans l’onglet Proxy > Options
 
-Vérifier que l’écouteur est actif :
+Vérifier que l’écouteur est activé :
 
 Adresse : 127.0.0.1
 
 Port : 8080
+
+---
 
 3. Configurer le proxy dans Firefox
 Aller dans about:preferences
@@ -55,12 +48,14 @@ HTTP proxy : 127.0.0.1
 
 Port : 8080
 
-Cocher : Utiliser ce proxy pour tous les protocoles
+Cocher Utiliser ce proxy pour tous les protocoles
 
 Valider avec OK
 
+---
+
 4. Installer le certificat CA de Burp dans Firefox
-Aller à http://burp
+Aller à l’adresse : http://burp
 
 Télécharger le fichier cacert.der
 
@@ -74,17 +69,18 @@ Cocher : Faire confiance à ce CA pour identifier des sites web
 
 Valider
 
+---
+
 5. Test de navigation HTTPS
 Ouvrir un onglet Firefox et visiter le site :
 
 https://exemple-securite.com
 
-
 Retourner dans Burp :
 
 Onglet Proxy > HTTP history
 
-Observer les requêtes HTTP(S) interceptées :
+Observer les requêtes interceptées :
 
 URLs
 
@@ -94,12 +90,13 @@ Cookies
 
 Méthodes (GET, POST)
 
+---
+
 6. Intérêt pour un attaquant
 
+Un attaquant pourrait :
 
-Un hacker pourrait :
-
-Lire et manipuler les cookies (vol de session)
+Lire et manipuler les cookies (ex. : vol de session)
 
 Injecter des scripts ou du code malveillant
 
@@ -111,20 +108,20 @@ Observer toutes les données échangées
 
 ---
 
-7. Sécurité : pourquoi c’est critique
+7. Pourquoi c’est critique
 Une fois le certificat racine installé, Burp peut intercepter toutes les connexions HTTPS.
 
-Si l’installation est faite via un malware ou une ruse, l’utilisateur ne verra pas que ses données sont surveillées.
-
-8. Captures écran
+Si cette installation est faite via un malware ou une ruse, l’utilisateur ne verra pas que ses données sont surveillées.
 
 ---
 
-Un dossier /captures contient :
+8. Captures écran
+
+Le dossier /captures contient :
 
 Lancement de Burp Suite
 
-Configuration proxy Firefox
+Configuration du proxy Firefox
 
 Installation du certificat
 
@@ -134,21 +131,21 @@ Exemple de requête interceptée
 
 9. Conclusion
 
+Ce projet montre que :
 
-Ce projet démontre que :
+Il est possible d’intercepter du trafic HTTPS si l’on contrôle le système ou le navigateur
 
-Il est possible d’intercepter du HTTPS si on contrôle le système ou le navigateur
+La confiance dans les certificats est essentielle
 
-La confiance dans les certificats est critique
-
-Il ne faut jamais installer de certificats dont on n’est pas sûr
+Il ne faut jamais installer un certificat dont on n’est pas sûr
 
 Avertissement légal
 
-Ce projet est uniquement à but pédagogique.
+Ce projet est strictement pédagogique.
+
 Ne jamais utiliser ces techniques sans autorisation légale explicite.
+
 Toute utilisation malveillante est interdite.
-Auteur
 
 ---
 
