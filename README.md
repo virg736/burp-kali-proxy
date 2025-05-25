@@ -15,7 +15,7 @@ Reproduction interdite sans autorisation.
 </p>
 
 
-Projet pédagogique : Analyse de trafic avec Burp Suite sur Kali Linux
+Projet pédagogique : analyse de trafic avec Burp Suite sous Kali Linux
 
 # Interception de trafic HTTPS avec Burp Suite
 
