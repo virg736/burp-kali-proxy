@@ -100,6 +100,8 @@ This project demonstrates how an analyst or attacker could intercept HTTPS traff
 - Cookies
 - Methods (GET, POST)
 
+  ![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.3.PNG)
+
 ---
 
 ## 6. Why this matters for an attacker
