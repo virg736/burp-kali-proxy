@@ -52,6 +52,8 @@ This project demonstrates how an analyst or attacker could intercept HTTPS traff
 - Configuration: **Use Burp defaults**
 - Start with: **Start Burp**
 
+  ![Lancer Burp Suite](./burp-kali-vn.png)
+
 ---
 
 ## 2. Check if the proxy is active
