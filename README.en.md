@@ -88,7 +88,7 @@ This project demonstrates how an analyst or attacker could intercept HTTPS traff
 - Import the file `cacert.der`
 - Check: **Trust this CA to identify websites**
 - Confirm
-- 
+ 
 ![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.4.PNG)
 
 ---
