@@ -144,13 +144,13 @@ Ce projet montre que :
 - La confiance dans les certificats est essentielle
 - Il ne faut jamais installer un certificat dont on n’est pas sûr
 
-### 11. Avertissement légal
+### 10. Avertissement légal
 
 > Ce projet est exclusivement destiné à des fins éducatives, dans le cadre de la formation à la cybersécurité.
 > L’auteure ne cautionne ni n’autorise l’utilisation de ces techniques en dehors d’un cadre légal strictement défini.
 > Toute utilisation non autorisée est interdite et relève de la seule responsabilité de l’utilisateur.
 
-## 12. Auteur / Droits
+## 11. Auteur / Droits
 
 © 2025 Virginie Lechene — Tous droits réservés.
 Reproduction interdite sans autorisation.
