@@ -62,6 +62,8 @@ This project demonstrates how an analyst or attacker could intercept HTTPS traff
 - Address: `127.0.0.1`
 - Port: `8080`
 
+  ![Vérifier que le proxy est actif](./projet%20burp-kaly-proxy.2.PNG)
+
 ---
 
 ## 3. Set up the proxy in Firefox
