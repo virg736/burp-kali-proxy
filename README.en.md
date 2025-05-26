@@ -27,16 +27,18 @@ This project is strictly educational. It demonstrates how HTTPS traffic can be i
 
 ---
 
-### Table of Contents
-1. Launch Burp Suite
-2. Check if the proxy is active
-3. Set up the proxy in Firefox
-4. Install Burp’s CA certificate in Firefox
-5. Perform an HTTPS browsing test
-6. Why this matters for an attacker
-7. Why this is critical
-8. Screenshots
-9. Conclusion
+## Table of Contents
+
+1. [Launch Burp Suite](#1-launch-burp-suite)
+2. [Check if the proxy is active](#2-check-if-the-proxy-is-active)
+3. [Set up the proxy in Firefox](#3-set-up-the-proxy-in-firefox)
+4. [Install Burp’s CA certificate in Firefox](#4-install-burps-ca-certificate-in-firefox)
+5. [Perform an HTTPS browsing test](#5-https-browsing-test)
+6. [Why this matters for an attacker](#6-why-this-matters-for-an-attacker)
+7. [Why this is critical](#7-why-this-is-critical)
+8. [Screenshots](#8-screenshots)
+9. [Conclusion](#9-conclusion)
+
 
 ---
 
