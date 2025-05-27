@@ -1,17 +1,18 @@
 # Burp-kali-proxy
 
+
 <p align="center">
 <img src="Burp%20Suite.PNG" alt="Burp Suite MITM Illustration" style="max-width: 100%; height: auto;" />
 </p>
 
-<p align="center">
-© 2025 <strong>virg736</strong> — Tous droits réservés.<br>
-Reproduction interdite sans autorisation.
-</p>
+<p align="center"><i>© 2025 <strong>virg736</strong> — Tous droits réservés.<br>
+Reproduction interdite sans autorisation.</i></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/license-MIT-blue.svg">
-<img src="https://img.shields.io/badge/stability-stable-brightgreen">
+<a href="https://creativecommons.org/licenses/by-nd/4.0/">
+<img src="https://licensebuttons.net/l/by-nd/4.0/88x31.png" alt="Licence: CC BY-ND 4.0">
+</a>
+<img src="https://img.shields.io/badge/stabilité-stable-brightgreen" alt="Stabilité: stable">
 </p>
 
 
