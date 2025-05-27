@@ -5,7 +5,7 @@
 <img src="Burp%20Suite.PNG" alt="Burp Suite MITM Illustration" style="max-width: 100%; height: auto;" />
 </p>
 
-<p align="center"><i>© 2025 <strong>virg736</strong> — Tous droits réservés.<br>
+<p align="center"><i>© 2025 <strong>virginie lechene</strong> — Tous droits réservés.<br>
 Reproduction interdite sans autorisation.</i></p>
 
 <p align="center">
