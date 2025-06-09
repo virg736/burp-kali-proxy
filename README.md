@@ -14,6 +14,10 @@ Reproduction interdite sans autorisation.</i></p>
 </a>
 <img src="https://img.shields.io/badge/stabilité-stable-brightgreen" alt="Stabilité: stable">
 </p>
+<p align="center"><strong>📸 Image protégée — Propriété exclusive</strong></p>
+
+<p align="center">
+
 
 
 Projet pédagogique : analyse de trafic avec Burp Suite sous Kali Linux
