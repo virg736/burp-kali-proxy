@@ -18,14 +18,16 @@ Reproduction interdite sans autorisation.</i></p>
 
 <p align="center">
 
-
-
 Projet pédagogique : analyse de trafic avec Burp Suite sous Kali Linux
+
+---
+
+
 
 # Interception de trafic HTTPS avec Burp Suite
 
-> **Note importante** : l’objectif est strictement éducatif, pour illustrer l'interception de trafic HTTPS avec Burp Suite.
->
+ **Note importante** : l’objectif est strictement éducatif, pour illustrer l'interception de trafic HTTPS avec Burp Suite.
+
 ---
 
 ### Sommaire
