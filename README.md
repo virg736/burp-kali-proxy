@@ -5,7 +5,7 @@
 <img src="Burp%20Suite.PNG" alt="Burp Suite MITM Illustration" style="max-width: 100%; height: auto;" />
 </p>
 
-<p align="center"><i>© 2025 <strong>virginie lechene</strong> — Tous droits réservés.<br>
+<p align="center"><i>© 2025 <strong>virginie lechene</strong> - Tous droits réservés.<br>
 Reproduction interdite sans autorisation.</i></p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Reproduction interdite sans autorisation.</i></p>
 </a>
 <img src="https://img.shields.io/badge/stabilité-stable-brightgreen" alt="Stabilité: stable">
 </p>
-<p align="center"><strong>📸 Image protégée — Propriété exclusive</strong></p>
+<p align="center"><strong>📸 Image protégée - Propriété exclusive</strong></p>
 
 <p align="center">
 
@@ -61,6 +61,7 @@ L'objectif est strictement éducatif, afin de démontrer l'importance de la séc
 
 
 ---
+
 ## 2. Vérifier que le proxy est actif
 
 - Aller dans l’onglet **Proxy > Options**
@@ -125,6 +126,7 @@ Un attaquant pourrait :
 - Observer toutes les données échangées
 
 ---
+
 ### 7. Pourquoi c’est critique
 
 - Une fois le certificat racine installé, **Burp Suite** peut intercepter toutes les connexions **HTTPS**
@@ -160,7 +162,7 @@ Ce projet montre que :
 
 ## 11. Auteur / Droits
 
-© 2025 Virginie Lechene — Tous droits réservés.
+© 2025 Virginie Lechene - Tous droits réservés.
 Reproduction interdite sans autorisation.
 
 
